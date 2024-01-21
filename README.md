@@ -2,6 +2,8 @@
 
 Hello and welcome to my Test Plan Project! I'm thrilled to have you join me on this journey as we ensure the seamless functionality and performance of our Booking Application Website. This Test Plan is designed to be our compass, guiding us through the intricacies of quality assurance and systematic evaluation.
 
+This is just a preview. For the full code, please contact me and i will grant a collaborator access for you. Thank you!
+
 Project Overview
 Objective: Our primary goal is to guarantee the flawless performance of the Booking Application Website. This Test Plan serves as a vital document, outlining the strategies, methodologies, and schedules we'll employ to achieve this objective.
 
